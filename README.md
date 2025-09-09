@@ -1,4 +1,4 @@
-# Hi, I'm Zhuoang 👋
+# Hi, I'm Zhuoang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 
 🎯 **Data Analyst** with a background in Computer Science and hands-on experience in  
 SQL, Python, Excel, Tableau, and Power BI. Passionate about transforming raw data into  
