@@ -23,7 +23,7 @@ actionable business insights.
 - 🔍 Python Data Cleaning & Analysis  
   Reconstructed and cleansed data using Python (pandas, NumPy), applying rule-based imputation, feature engineering, and type correction to enable profitability and sales behaviour analysis.
 
-- 📈 Superstore Sales Dashboard *(Tableau)*  
+- 📈 [Tableau Sales & Customer Dashboards](https://public.tableau.com/views/SalesCustomerDashboards_17574461233940/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
   Interactive dashboard analyzing regional sales performance and profit margin trends.  
 
 ---
