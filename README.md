@@ -10,7 +10,7 @@ actionable business insights.
 
 - **Languages & Databases**: SQL (T-SQL, MySQL), Python (pandas, NumPy), Excel  
 - **Data Visualization**: Tableau, Power BI, Matplotlib  
-- **Data Analytics**: ETL, Data Cleaning, Dashboard Development  
+- **Data Analytics**: ETL, Data Cleaning, Dimensional Modeling, EDA, Dashboard Development  
 - **Other**: Git/GitHub, Google Analytics
 
 ---
