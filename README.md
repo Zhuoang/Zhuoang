@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Zhuoang 👋
 
-<!--
-**Zhuoang/Zhuoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst** with a background in Computer Science and hands-on experience in  
+SQL, Python, Excel, Tableau, and Power BI. Passionate about transforming raw data into  
+actionable business insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills & Tools
+
+- **Languages & Databases**: SQL (T-SQL, MySQL), Python (pandas, NumPy), Excel  
+- **Data Visualization**: Tableau, Power BI, Matplotlib  
+- **Data Analytics**: ETL, Data Cleaning, Dashboard Development  
+- **Other**: Git/GitHub, Google Analytics
+
+---
+
+## 🔹 Featured Projects
+
+- 📊 [SQL Data Warehouse & Analytics](https://github.com/Zhuoang/sql-data-warehouse-analytics)  
+  Built a modern data warehouse with SQL Server: ETL pipeline, data modelling, business-ready analytics.  
+
+- 🔍 Python Data Cleaning & Analysis  
+  Reconstructed and cleansed data using Python (pandas, NumPy), applying rule-based imputation, feature engineering, and type correction to enable profitability and sales behaviour analysis.
+
+- 📈 Superstore Sales Dashboard *(Tableau)*  
+  Interactive dashboard analyzing regional sales performance and profit margin trends.  
+
+---
+
+## 🔹 Get in Touch
+
+- 📧 Email: [zhuoang.cscs@gmail.com](mailto:zhuoang.cscs@gmail.com)  
+- 💼 LinkedIn: [linkedin.com](https://linkedin.com/in/zhuoang)  
+- 🌐 Portfolio: [Tableau Public](https://public.tableau.com/app/profile/zhuoang/vizzes)
+
+---
+
+⭐️ *Always open to collaboration and data-driven opportunities!*
