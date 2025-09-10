@@ -1,6 +1,6 @@
 # Hi, I'm Leon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-🎯 **Data Analyst** with a background in Computer Science and hands-on experience in  
+**Data Analyst** with a background in Computer Science and hands-on experience in  
 SQL, Python, Excel, Tableau, and Power BI. Passionate about transforming raw data into  
 actionable business insights.
 
