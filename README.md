@@ -20,7 +20,7 @@ actionable business insights.
 - 📊 [SQL Data Warehouse & Analytics](https://github.com/Zhuoang/sql-data-warehouse-analytics)  
   Built a modern data warehouse with SQL Server: ETL pipeline, data modelling, business-ready analytics.  
 
-- 🔍 [Python Data Cleaning & Analysis](https://github.com/Zhuoang/python-data-cleaning-and-analysis)
+- 🔍 [Python Data Cleaning & Analysis](https://github.com/Zhuoang/python-data-cleaning-and-analysis)  
   Reconstructed and cleansed data using Python (pandas, NumPy), applying rule-based imputation, feature engineering, and type correction to enable profitability and sales behaviour analysis.
 
 - 📈 [Tableau Sales & Customer Dashboards](https://public.tableau.com/views/SalesCustomerDashboards_17574461233940/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
